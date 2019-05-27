@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: org.drools:drools-core:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-core/unknown/drools-core-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-core/unknown/drools-core-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-core/unknown/drools-core-unknown-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/spring-drools/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/spring-drools/src/main/java" />
+      <root url="file://$PROJECT_DIR$/spring-drools/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
